@@ -1,0 +1,1 @@
+import{_ as o,o as n,c as s,n as t}from"./index-71ab4c99.js";const r={},c={class:"md:bg-white md:rounded-lg md:shadow-md md:p-6"};function d(e,a){return n(),s("div",c,[t(e.$slots,"default")])}const _=o(r,[["render",d]]);export{_ as C};
